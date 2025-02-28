@@ -1,13 +1,13 @@
-#include <iostream> // Подключение библиотеки для ввода/вывода
-#include <vector> // Подключение библиотеки для работы с векторами
-#include <thread> // Подключение библиотеки для работы с потоками
-#include <mutex> // Подключение библиотеки для работы с мьютексами
-#include <chrono> // Подключение библиотеки для работы с временем
-#include <string> // Подключение библиотеки для работы со строками
-#include <map> // Подключение библиотеки для работы с ассоциативными контейнерами
-#include <numeric> // Подключение библиотеки для числовых операций
-#include <random> // Подключение библиотеки для генерации случайных чисел
-#include <atomic> // Подключение библиотеки для атомарных операций
+#include <iostream> 
+#include <vector> 
+#include <thread> 
+#include <mutex> 
+#include <chrono> 
+#include <string> 
+#include <map> 
+#include <numeric>
+#include <random> 
+#include <atomic> 
 
 using namespace std; // Использование пространства имен std
 
